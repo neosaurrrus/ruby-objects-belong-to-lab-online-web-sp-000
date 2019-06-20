@@ -1,4 +1,4 @@
-class Artist
+class Post
   attr_accessor :title
   def initialise(title)
     @title = title
